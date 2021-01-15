@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Uas_amub_Halodoc_ti7a'
+rootProject.name = "Uasamub_halodoc_ti7a"
