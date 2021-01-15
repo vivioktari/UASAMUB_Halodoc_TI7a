@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665884032482",
+    "project_id": "uasamubhalodocti7a-dba6b",
+    "storage_bucket": "uasamubhalodocti7a-dba6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665884032482:android:ef79e98462302641118dbb",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.uas_amub_halodoc_ti7a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665884032482-80aetnvpb18p3mj0cil83n0name3k4f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.id.atmaluhur.uas_amub_halodoc_ti7a",
+            "certificate_hash": "fec7dcd2bc21b9050703ec3fe6efb34ba3d350fb"
+          }
+        },
+        {
+          "client_id": "665884032482-8jppcli6t5m7n1276c5vqkhn0l9coalh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1D6xd9vkSlh8SC2JFH_fietBB99Sa0Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665884032482-8jppcli6t5m7n1276c5vqkhn0l9coalh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
